@@ -9,7 +9,7 @@
   "dependencies": {
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.4.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "boxicons": "^2.0.5",
     "bulma": "^0.8.0",
     "gridsome": "^0.7.0",
